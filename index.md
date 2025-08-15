@@ -11,9 +11,9 @@ Hi! My name is [Lance Oberiano].
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
 | Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
-| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
-| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
+| Scrummer     | Lance    | github.com/lanceo11/student         | downstream (fork)     | student   |
+| Scrummer     | Joshua   | github.com/compscience2010/student  | downstream (fork)     | student   |
+| Scrummer     | Pranav   | github.com/psai_github/student      | downstream (fork)     | student   |
 
 
 ## Links to Learning
