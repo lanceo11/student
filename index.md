@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Lance.
+Hi!! My name is Lance.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
