@@ -10,15 +10,16 @@ permalink: /background
 <canvas id="world"></canvas>
 
 <script>
+  // this is the 2D rendering context
   const canvas = document.getElementById("world");
   const ctx = canvas.getContext('2d');
-
+// this labels the background
   const backgroundImg = new Image();
   backgroundImg.src = '{{page.background}}';
-
+// this labels the sprite
   const spriteImg = new Image();
   spriteImg.src = '{{page.sprite}}';
-  
+  // these commands size the canvas measurements
   backgroundImg.onload = function() {
     const canvasWidth = window.innerWidth;
     const canvasHeight = window.innerHeight;
@@ -31,7 +32,7 @@ permalink: /background
     canvas.style.position = 'absolute';
     canvas.style.left = `0px`;
     canvas.style.top = `${(window.innerHeight - canvasHeight) / 2}px`;
-
+// the base value of speed for the sprite
     var gameSpeed = 5;
 
     class GameObject {
